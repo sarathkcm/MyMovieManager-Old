@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Preferences>
+    <UserAgent>MyMovieManager v1.0.0</UserAgent>
+    <apiURL>http://api.opensubtitles.org/xml-rpc</apiURL>
+    <TotalMovies> 0</TotalMovies>
+    <old>OS Test User Agent</old>
+</Preferences>
