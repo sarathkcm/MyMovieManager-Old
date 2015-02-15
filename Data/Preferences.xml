@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Preferences>
+    <UserAgent>OS Test User Agent</UserAgent>
+    <apiURL>http://api.opensubtitles.org/xml-rpc</apiURL>
+    <TotalMovies> 0</TotalMovies>
+    <old>OS Test User Agent</old>
+</Preferences>
