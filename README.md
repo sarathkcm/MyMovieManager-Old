@@ -3,11 +3,11 @@
 
 **Website**: [http://experimenter.x10.mx](http://experimenter.x10.mx)
 
-![My Movie Manager Running on Windows 7](https://www.codeplex.com/Download?ProjectName=mymoviemanager&DownloadId=1454106)
+![My Movie Manager Running on Windows 7](http://experimenter.x10.mx/images/contents/MMM-ScreenShot.png)
 
 Take a look at the features of My Movie Manager:
 
-*   It can scan your computer's harddisks or even network harddisks for movie files, identify the movies automatically, and download all basic details about each movie from internet, and creates a local database of your movie collection. It can identify a movie irrespective of the filenames, as it uses a unique hashing method, supported by www.opensubtitles.org to identify your movies. The accuracy of movie identification is commendable. You can always use the edit button, to correct a movie file in case it is wrongly identified. But the chances are very less for you have to use the edit button.
+*   It can scan your computer's harddisks for movie files, identify the movies automatically, and download all basic details about each movie from internet, and creates a local database of your movie collection. It can identify a movie irrespective of the filenames, as it uses a unique hashing method, supported by www.opensubtitles.org to identify your movies. The accuracy of movie identification is commendable. You can always use the edit button, to correct a movie file in case it is wrongly identified. But the chances are very less for you have to use the edit button.
 *   <div>Play, or Open the folder of the movie you desire, directly from the software just by a click, or pressing enter. You no more need to waste time by searching your computer for movies. My Movie Manager lists all your movies at one place.</div>
 
     <div>You can add as many folders as you like, and My Movie Manager is able to look for movie files inside those folders, its subfolders in a recursive manner.</div>
