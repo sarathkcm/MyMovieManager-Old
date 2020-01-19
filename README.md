@@ -3,7 +3,7 @@
 
 **Website**: [http://experimenter.x10.mx](http://experimenter.x10.mx)
 
-![My Movie Manager Running on Windows 7](http://experimenter.x10.mx/images/contents/MMM-ScreenShot.png)
+![My Movie Manager Running on Windows 7](https://raw.githubusercontent.com/sarathkcm/MyMovieManager-Old/master/Screens/Screenshot_13.png)
 
 Take a look at the features of My Movie Manager:
 
