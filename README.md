@@ -1,8 +1,6 @@
 # My Movie Manager
 **My Movie Manager** is a Personal Movie Collection Manager, which can scan your computer for movies, identify movie files and download movie details from [www.imdb.com](http://www.imdb.com/). If you have a collection of movie files in your computer, you will find it very useful.
 
-**Website**: [http://experimenter.x10.mx](http://experimenter.x10.mx)
-
 ![My Movie Manager Running on Windows 7](https://raw.githubusercontent.com/sarathkcm/MyMovieManager-Old/master/Screens/Screenshot_13.png)
 
 Take a look at the features of My Movie Manager:
